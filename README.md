@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-[Example]: http://example.com/
+[Подробнее](https://github.com/11nik11/11nik11/blob/main/INFO.MD "Click me")
 
 <!--
+markdown INFO
+https://gist.github.com/Jekins/2bf2d0638163f1294637
+
 **11nik11/11nik11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+https://github.com/11nik11/11nik11/blob/main/INFO.MD
